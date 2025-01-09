@@ -1,1 +1,2 @@
 # Cafe-Management-System
+Cafe Management System is a Java application inspired by popular cafes like Starbucks, designed to help cafe owners and employees work more effectively and efficiently. This system provides unique access levels, allowing employees to focus on order placement while enabling cafe owners to manage and update the menu. After placing orders, the system also generates a bill in PDF format for easy record-keeping.
